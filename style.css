@@ -578,6 +578,7 @@ line-height: 1.8;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     gap: 2rem;
+    justify-content: center;
 }
 
 .skill-category{
